@@ -1,6 +1,6 @@
-# finper
-Tu vida financiera en un dashboard
+# Kunin
+Tu entrenador financiero
 
-Puedes probarla aquí: https://share.streamlit.io/felipesanma/finper/main/finper_app.py
+Puedes probarla aquí: *necesitamos un nuevo link de streamlit*
 
 Necesitarás tu link y apikey de Fintoc
